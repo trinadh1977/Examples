@@ -1,2 +1,2 @@
 Example file
-Example file changes 2
+Added new line3 instead of pr
